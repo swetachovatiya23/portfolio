@@ -1,7 +1,7 @@
 const Intro = () => {
     return (
         <div>
-            this is intro
+            this is intro for portfolio
         </div>
     )
 }
