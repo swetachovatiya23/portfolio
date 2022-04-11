@@ -1,0 +1,16 @@
+.my{
+    display: flex;
+    height: 50vh;
+    background-color: pink;
+
+
+}
+
+
+.my-left{
+    flex: 1;
+}
+
+.my-right{
+    flex: 1;
+}

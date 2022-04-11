@@ -1,7 +1,12 @@
+import "./Intro.css"
+
+
 const Intro = () => {
     return (
-        <div>
-            this is intro for portfolio
+        <div className="my">
+            <div className="my-left">leftside</div>
+            <div className="my-right">rightside</div>
+            
         </div>
     )
 }
